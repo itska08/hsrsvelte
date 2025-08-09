@@ -78,7 +78,21 @@ h6 {
 }
 
 svg {
-	display: block;
-	width: 100%;
-	height: auto;
+        display: block;
+        width: 100%;
+        height: auto;
+}
+
+body {
+        background-color: #121212;
+        color: #e0e0e0;
+        font-family: var(--sans);
+}
+
+a {
+        color: #90caf9;
+}
+
+main {
+        padding: 1rem;
 }
